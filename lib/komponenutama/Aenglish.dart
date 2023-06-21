@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:utspcs/Isi/isiprofileenglish/profileenglish.dart';
-import 'package:utspcs/Isi/profile.dart';
+import 'package:tugasmandiripcs/Isi/isiprofileenglish/profileenglish.dart';
+import 'package:tugasmandiripcs/Isi/profile.dart';
 
 class Aenglish extends StatelessWidget {
   const Aenglish({super.key});
