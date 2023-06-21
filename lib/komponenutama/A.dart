@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:tugasmandiripcs/Beranda/beranda_view.dart';
 import 'package:tugasmandiripcs/Inbox/inbox_view.dart';
-import 'package:tugasmandiripcs/Isi/profile.dart';
-import 'package:tugasmandiripcs/Pesanan/pesanan_view.dart;
+
+import 'package:tugasmandiripcs/Pesanan/pesanan_view.dart';
+import 'package:tugasmandiripcs/komponenutama/profile.dart';
 
 class A extends StatelessWidget {
   const A({super.key});
