@@ -25,7 +25,7 @@ class A extends StatelessWidget {
                     style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
                   ),
                   Text(
-                    "Assitance Part IN JOB APP",
+                    "PET SHOP",
                     style: TextStyle(fontSize: 20),
                   )
                 ],
