@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugasmandiripcs/Isi/profile.dart';
+import 'package:tugasmandiripcs/komponenutama/profile.dart';
 
 class A extends StatelessWidget {
   const A({super.key});
