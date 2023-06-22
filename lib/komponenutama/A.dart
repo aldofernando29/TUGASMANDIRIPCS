@@ -91,7 +91,7 @@ class categorijob extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                "Job",
+                "Pet Shop",
                 style: TextStyle(
                     fontSize: 25,
                     fontWeight: FontWeight.bold,
@@ -128,7 +128,7 @@ class categorijob extends StatelessWidget {
                     ),
                     child: Center(
                       child: Text(
-                        'Developer',
+                        'anggora',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 16,
@@ -151,7 +151,7 @@ class categorijob extends StatelessWidget {
                     ),
                     child: Center(
                       child: Text(
-                        'Sopir',
+                        'persia',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 16,
@@ -174,7 +174,7 @@ class categorijob extends StatelessWidget {
                     ),
                     child: Center(
                       child: Text(
-                        'Sales',
+                        'mixdome',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 16,
@@ -197,7 +197,7 @@ class categorijob extends StatelessWidget {
                     ),
                     child: Center(
                       child: Text(
-                        'Security',
+                        'cat',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 16,
@@ -220,7 +220,7 @@ class categorijob extends StatelessWidget {
                     ),
                     child: Center(
                       child: Text(
-                        'CS Kantor',
+                        'kucing',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 16,
@@ -246,7 +246,7 @@ class categorijob extends StatelessWidget {
             children: [
               // Widget Image untuk menampilkan gambar
               Image.network(
-                'https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2022/03/a50b5a97cd9ee91826449bc79f51ace0_fe9477fa96bd2cbfd6da352cca822dcd_compressed.jpg',
+                'https://img.iproperty.com.my/angel-legacy/1110x624-crop/static/2020/09/Mengenal-Kucing-Persia-Sebelum-Memelihara-di-Rumah-1.png',
                 width: 100,
                 height: 100,
                 fit: BoxFit.cover,
